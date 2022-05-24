@@ -1,0 +1,19 @@
+algorithem algo3
+
+var
+sum:integer;
+tab: array of integer[];
+vct: array of  integer[];
+n: integer;
+BEGIN
+read(n)
+sum:=function sum(t1,t2,n)
+end
+
+function sum(int:t,int:v,int:n)
+i,som:integer:=0
+for i from 1 to n step 1 do 
+som:=t1[i]+v[i];
+end_for
+
+end sum
